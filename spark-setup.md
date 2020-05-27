@@ -20,6 +20,6 @@ bin/pyspark
 
 ### Launch Spark UI
 
-YOUR.IP.ADD.RESS:4040
+check that the UI is up : http://YOUR.IP.ADD.RESS:4040
 
 
